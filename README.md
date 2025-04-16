@@ -213,6 +213,4 @@ If you have any questions about my research, robotics, math, or anything, feel f
 </div>
 
 ------
-Credit: [10Kartik](https://github.com/10Kartik)
 
-Last Edited on: 18/01/2024
